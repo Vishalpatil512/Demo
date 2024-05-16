@@ -11,6 +11,10 @@ public class A {
 	{
 		System.out.println("m2");
 	}
+	public void m4()
+	{
+		System.out.println("m4");
+	}
 		public static void main(String[] args) {
 		System.out.println("This is git demo");
 	}
