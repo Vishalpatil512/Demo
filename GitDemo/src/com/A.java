@@ -22,7 +22,7 @@ public class A {
 	public void m6()
 	{
 		System.out.println("m6");
-	
+	}
 		public static void main(String[] args) {
 		System.out.println("This is git demo");
 	}
